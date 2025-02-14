@@ -1,0 +1,44 @@
+[
+  {
+    "dueDate": "02/14",
+    "course": "15-251",
+    "completed": false,
+    "title": "Study Chapter 1-2"
+  },
+  {
+    "dueDate": "02/15",
+    "course": "15-251",
+    "completed": false,
+    "title": "Study Chapter 3-4"
+  },
+  {
+    "dueDate": "02/17",
+    "course": "FE",
+    "completed": false,
+    "title": "40 connects"
+  },
+  {
+    "dueDate": "02/19",
+    "course": "15-251",
+    "completed": false,
+    "title": "Exam"
+  },
+  {
+    "dueDate": "02/21",
+    "course": "70-415",
+    "completed": false,
+    "title": "Interview Entreprenuer Essay"
+  },
+  {
+    "dueDate": "02/26",
+    "course": "10-315",
+    "completed": false,
+    "title": "Exam 1"
+  },
+  {
+    "dueDate": "02/16",
+    "course": "05-391",
+    "completed": false,
+    "title": "HCI Quiz"
+  }
+]
